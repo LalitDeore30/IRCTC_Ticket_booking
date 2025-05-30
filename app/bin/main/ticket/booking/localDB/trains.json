@@ -1,0 +1,44 @@
+[ {
+  "train_id" : "T123",
+  "train_no" : "12345",
+  "seats" : [ [ 1, 1, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ],
+  "station_times" : {
+    "Mumbai" : "10:00:00",
+    "Nagpur" : "15:30:00",
+    "Delhi" : "22:00:00"
+  },
+  "stations" : [ "Mumbai", "Nagpur", "Delhi" ],
+  "train_info" : "Train ID: T123 Train No: 12345"
+}, {
+  "train_id" : "T456",
+  "train_no" : "67890",
+  "seats" : [ [ 1, 1, 1, 0 ], [ 0, 0, 1, 0 ], [ 0, 0, 0, 0 ] ],
+  "station_times" : {
+    "Mumbai" : "14:00:00",
+    "Delhi" : "04:00:00"
+  },
+  "stations" : [ "Mumbai", "Delhi" ],
+  "train_info" : "Train ID: T456 Train No: 67890"
+}, {
+  "train_id" : "T789",
+  "train_no" : "11223",
+  "seats" : [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ],
+  "station_times" : {
+    "Bangalore" : "13:50:00",
+    "Hyderabad" : "19:30:00",
+    "Delhi" : "06:00:00"
+  },
+  "stations" : [ "Bangalore", "Hyderabad", "Delhi" ],
+  "train_info" : "Train ID: T789 Train No: 11223"
+}, {
+  "train_id" : "T321",
+  "train_no" : "44556",
+  "seats" : [ [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ], [ 0, 0, 0, 0 ] ],
+  "station_times" : {
+    "Chennai" : "08:00:00",
+    "Bangalore" : "12:30:00",
+    "Mumbai" : "23:45:00"
+  },
+  "stations" : [ "Chennai", "Bangalore", "Mumbai" ],
+  "train_info" : "Train ID: T321 Train No: 44556"
+} ]

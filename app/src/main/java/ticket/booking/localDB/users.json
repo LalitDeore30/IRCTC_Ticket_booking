@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Lovepreet Singh",
+        "password": "12345",
+        "hashed_password": "$2a$10$MqonEcizso4Re9iFEMajHOIHCUd5O3Q.XZX779C50ZnC/Hb6mirwW",
+        "tickets_booked": [
+            {
+                "ticket_id": "your_ticket_id",
+                "user_id": "abcdefgh",
+                "source": "Bangalore",
+                "destination": "Delhi",
+                "date_of_travel": "2023-12-08T18:30:00Z",
+                "train": {
+                    "train_id": "bacs",
+                    "train_no": "12345",
+                    "seats": [
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    ],
+                    "station_times": {
+                        "Bangalore": "13:50:00",
+                        "Jaipur": "13:50:00",
+                        "Delhi": "13:50:00"
+                    },
+                    "stations": [
+                        "Bangalore",
+                        "Jaipur",
+                        "Delhi"
+                    ],
+                    "train_info": "Train ID: bacs Train No: 12345"
+                },
+                "ticket_info": "Ticket ID: your_ticket_id belongs to User abcdefgh from Bangalore to Delhi on 2023-12-08T18:30:00Z"
+            }
+        ],
+        "user_id": "abcdefgh"
+    },
+    {
+        "name": "rahul",
+        "password": "hhbb11",
+        "hashed_password": "$2a$10$O/OWE.xh3gttMANiM4BIX.mo.4/myik1J739DZ25ecVENk8xhMCW2",
+        "tickets_booked": [],
+        "user_id": "fe46da4d-c8d1-4229-97e6-600dce6941e8"
+    },
+    {
+        "name": "Lalit",
+        "password": "12345",
+        "hashed_password": "$2a$10$S4oVFpzL2ky3sKeaZjvJ/.SWXHbgptnXOqNEZHP9I0ZkfjsSyidOK",
+        "tickets_booked": [],
+        "user_id": "3253eef5-3b17-42f4-83d7-8b9ce37f92ec"
+    },
+    {
+        "name": "Lalit",
+        "password": "aabb11",
+        "hashed_password": "$2a$10$M8uiUT//op3.iAv6A6WoiOWaZsgIe96aR4VFrVx.u5aFLwj2LbHQi",
+        "tickets_booked": [],
+        "user_id": "493f6ea8-93d1-4706-ae58-f4885f06a09e"
+    },
+    {
+        "name": "Rajat",
+        "password": "0987",
+        "hashed_password": "$2a$10$LjXMiLSO9s8TSP/IA73plOrs1E.RyjMQjA.FA7Ueq2szL67pPH4J2",
+        "tickets_booked": [],
+        "user_id": "6602b2d0-dd78-4af2-8984-418b4b9d549f"
+    },
+    {
+        "name": "john_doe",
+        "password": "pass123",
+        "hashed_password": "$2a$10$KtuZ3YWqYba1nnW/P3QEeedkaVeCKCeBwpQsR/kFAoC.WG8GZIaxC",
+        "tickets_booked": [],
+        "user_id": "9ef1c8e6-b931-48df-8f1e-dd871b218ed4"
+    }
+]
